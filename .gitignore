@@ -1,0 +1,10 @@
+/build/
+/highscore.dat
+*.o
+*.d
+*.core
+core
+.DS_Store
+/.idea/
+/.vscode/
+/assets/audio/*.wav
